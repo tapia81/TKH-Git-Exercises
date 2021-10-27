@@ -1,0 +1,4 @@
+lion red
+tiger orange
+leopard spots
+turtle green
